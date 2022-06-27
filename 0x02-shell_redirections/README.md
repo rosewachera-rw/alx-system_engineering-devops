@@ -3,3 +3,4 @@
 1. Confused smiley - A script that displays a confused smiley
 2. Let's display a file - Display the content of a file
 3. What about 2? - Display the content of two files
+4. Last lines of a file - Display the last 10 lines of a file
