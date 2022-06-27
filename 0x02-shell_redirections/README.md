@@ -7,3 +7,6 @@
 5. I'd prefer the first ones actually - Display the first 10 lines of a file
 6. Line #2 - Display the third line of the file
 7. It is a good file that cuts iron without making noise - Create and display the content of a file
+8. Save current state of directory - Script that writes into a file
+9. Duplicate last line - Script that duplicates the last line of a file
+10. No more javascript - A script that deletes all the regular files
